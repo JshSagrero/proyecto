@@ -1,0 +1,21 @@
+/* ProductCatalog.css */
+
+.product-catalog {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .product-catalog h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  /* Agrega estilos adicionales según sea necesario */
+  
